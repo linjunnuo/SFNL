@@ -1,0 +1,6 @@
+panda
+torch
+torchvision
+torchaudio
+wandb
+syft
